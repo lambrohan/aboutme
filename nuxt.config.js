@@ -14,7 +14,7 @@ export default {
     host: '0.0.0.0', // default: localhost,
   },
   router: {
-    base: '/aboutme',
+    base: '/aboutme/',
   },
   /*
    ** Headers of the page

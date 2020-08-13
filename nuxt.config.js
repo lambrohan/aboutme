@@ -13,9 +13,6 @@ export default {
     port: 3000, // default: 3000
     host: '0.0.0.0', // default: localhost,
   },
-  router: {
-    base: '/aboutme/',
-  },
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head

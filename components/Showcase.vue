@@ -1,8 +1,8 @@
 <template>
   <div id="showcase">
     <div class="left">
-      <img :src="'~/static/' + currentProject.img" />
-      <img :src="'~/static/' + currentProject.img2" />
+      <img :src="'~/static' + currentProject.img" />
+      <img :src="'~/static' + currentProject.img2" />
     </div>
     <div class="right">
       <h4>{{ currentProject.title }}</h4>

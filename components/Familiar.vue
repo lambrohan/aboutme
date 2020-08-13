@@ -5,7 +5,7 @@
       <img
         v-for="item in icons"
         :key="item.icon"
-        :src="item.icon"
+        :src="'aboutme' + item.icon"
         :title="item.title"
       />
     </div>

@@ -1,7 +1,7 @@
 <template>
   <div id="app-footer">
     <a class="git" target="_blank" href="https://www.github.com/lambrohan">
-      <img src="~/static/github.png" />
+      <img src="/github.png" />
       Github
     </a>
     <div class="nuxt">

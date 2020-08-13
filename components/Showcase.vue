@@ -1,8 +1,8 @@
 <template>
   <div id="showcase">
     <div class="left">
-      <img :src="currentProject.img" />
-      <img :src="currentProject.img2" />
+      <img :src="'~/static/' + currentProject.img" />
+      <img :src="'~/static/' + currentProject.img2" />
     </div>
     <div class="right">
       <h4>{{ currentProject.title }}</h4>
@@ -10,7 +10,7 @@
       <p v-if="currentProject.p2">{{ currentProject.p2 }}</p>
       <div class="navigation">
         <img
-          src="/left_arr.svg"
+          src="~/static/left_arr.svg"
           @click="
             currentProjectIndex > 0
               ? currentProjectIndex--
@@ -19,7 +19,7 @@
         />
         <span></span>
         <img
-          src="/rit_arr.svg"
+          src="~/static/rit_arr.svg"
           @click="
             currentProjectIndex < projects.length - 1
               ? currentProjectIndex++

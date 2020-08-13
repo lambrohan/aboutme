@@ -1,7 +1,7 @@
 <template>
   <div id="hero">
     <a class="git" target="_blank" href="https://www.github.com/lambrohan"
-      ><img src="github.png" />Github</a
+      ><img src="~/static/github.png" />Github</a
     >
     <h2>Hello.</h2>
     <h4>My name is Rohan Lamb.</h4>

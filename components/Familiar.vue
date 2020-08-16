@@ -1,6 +1,6 @@
 <template>
   <div id="familier">
-    <h4>I'm super familiar with</h4>
+    <h4>I'm also familiar with</h4>
     <div class="icons">
       <img
         v-for="item in icons"

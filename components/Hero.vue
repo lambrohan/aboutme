@@ -6,11 +6,11 @@
     <h2>Hello.</h2>
     <h4>My name is Rohan Lamb.</h4>
     <p>
-      I am a Full Stack Developer. I love to build fast & beautifull user
+      I am a Full Stack Developer. I love to build fast & beautiful user
       experience for mobile & web. I know Nuxt, NodeJS &amp; Native Android
-      Developement. I have been building apps with above stack for more than 3
-      years. I am self taught developer & a Mechanical Engineer. Sometimes I
-      write articles about programming on my medium blog
+      Developement very well. I have been building apps with above stack for
+      more than 3 years. I am self taught developer & a Mechanical Engineer.
+      Sometimes I write articles about programming on my medium blog
       <a class="medium" href="https://medium.com/@lambrohan" target="_blank"
         >here </a
       >.
@@ -18,8 +18,8 @@
     <br />
     <p>
       Apart from programming, I enjoy listening to classical & electronic music.
-      <a class="medium" href="mailto:lambrohan@gmail.com">Contact</a> want to
-      have a nerdy conversation!
+      <a class="medium" href="mailto:lambrohan@gmail.com">Contact</a> if you
+      want to work with me or just want to have a nerdy conversation!
     </p>
   </div>
 </template>
